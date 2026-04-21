@@ -32,10 +32,5 @@ int bfs_pointer(Graph* g, int source, int* dist) {
     }
     free(queue);
     return visited_count;
-
-
-    
-
-
    
 }
